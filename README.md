@@ -1,5 +1,8 @@
 # Offline Notes Lab
 
+**Student:** Abdulrahman Munir
+**Matric Number:** 2024/1/96883CP
+
 A beginner-friendly offline-first Progressive Web App (PWA) built with React, TypeScript, and Vite. Create notes that persist in the browser, work offline, and can be installed as a standalone app.
 
 ## Node.js version
